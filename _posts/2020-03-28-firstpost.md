@@ -1,0 +1,91 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      My First Post 				# 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2017-02-06 				# 时间
+author:     BY 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 生活
+---
+
+
+# GNSS行业的干货网站以及邮件列表
+
+>本Loser觉得行业内有意思的网站以及邮件列表，可以获取最新学术、职位信息。
+排名不分先后，仅供参考。
+>作者：GNSS Loser （微信公众号：`GNSS News`）
+
+### GNSS系统官方
+- [GPS](https://www.gps.gov/)
+- [BDS](http://beidou.gov.cn/)
+- [GSA](https://galileognss.eu/)
+- [GLONASS](http://www.glonass-svoevp.ru/index.php?option=com_content&view=article&id=146&Itemid=305&lang=en)
+- [QZSS](https://qzss.go.jp/en/)
+- [iGMAS](http://www.igmas.org/)
+- [CSNO TARC](http://www.csno-tarc.cn/)
+它有北斗实时服务性能的监测，结合后面中科院对北斗广播电离层的监测，好评。
+
+### IGS邮件列表
+- [IGS Mail](https://lists.igs.org/mailman/listinfo/igsmail)
+***重点推荐***：Major announcements relevant to the entire IGS community，也有不少人在上面发招人的信息
+同时也可以在[FTP](https://lists.igs.org/pipermail/igsmail/)上查看
+- [IGS MGEX](https://lists.igs.org/mailman/listinfo/igs-mgex)
+IGS Multi-GNSS Experiment
+
+### UNB邮件列表
+- [Canadian Space Geodesy Forum](http://gauss.gge.unb.ca/CANSPACE.html)：http://gauss.gge.unb.ca/CANSPACE.html
+***重点推荐***：加拿大University of New Brunswick维护，主要有关于GNSS卫星发射，NANU信息，以及其他成员发布的招生等信息
+
+### 行业杂志
+- [GPS World](https://www.gpsworld.com/)
+- [Inside GNSS](https://insidegnss.com/)
+
+### 国际会议
+- [武汉大学测绘学院2019年国际学术会议列表公示](http://main.sgg.whu.edu.cn/jiaoxue/yanjiusheng/2019/0221/4062.html)
+- [ION](https://www.ion.org/)
+- [CSNC](https://beidou.org/)
+- ...
+
+### Google学术邮件订阅
+- [Google学术](https://scholar.google.com/)
+***重点推荐***：需要科学上网，通过邮件通知你订阅学者的最新论文、引用等
+
+### ReseachGate
+- [ResearchGate](https://www.researchgate.net)
+设置好自己的研究方向后，系统会默认的推送一些工作/招生信息
+
+### 各种研究组的官方主页
+- [香港理工IPNL](https://www.polyu-ipn-lab.com/)
+- [西班牙UPC GAGE](https://gage.upc.edu/)
+- [中科院AOE GIPP](http://www.gipp.org.cn/prolist/10/)
+有北斗实时广播电离层监测的功能。
+- ...
+
+### Bernese软件的邮件列表
+- [Bernese](http://www.bernese.unibe.ch/support/)
+有关Bernese软件的相关信息，其中包括他们招生的信息。如果无法直接订阅的话，也可以查看他们的[FTP](http://www.bernese.unibe.ch/bswmail.php)
+
+### 质量控制软件的邮件列表
+(如果你使用他们的话)
+- [TEQC](https://www.unavco.org/software/data-processing/teqc/teqc.html)
+TEQC的作者发布软件的使用技巧等
+- [GFZRNX](http://semisys.gfz-potsdam.de/semisys/scripts/download/index.php)
+订阅方式写在软件说明书中(One can join the mailing list sending an empty e-mail to: gfzrnx-on@gfz-potsdam.de)
+
+### LetPub查询SCI期刊
+- [LetPub](https://www.letpub.com.cn/index.php?page=journalapp&view=search)
+查询期刊投稿、分区、影响因子等
+
+### 期刊
+- [GPS Solutions](https://www.springer.com/journal/10291)
+- [Journal of Geodesy](https://www.springer.com/journal/190)
+
+---
+`点亮“在看”`
+
+<div align=right><img width = '150' height ='150' src="https://i.imgur.com/oMvpN6k.png"/></div>
+
+欢迎关注、收藏、转载哈!
+最有意思的GNSS NEWS…不定期更新…
